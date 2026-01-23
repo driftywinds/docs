@@ -16,14 +16,15 @@ Here is some stuff I host on VPSs and/or GitHub.
 - [Beaver Habbit Tracker](https://beaver.003274.xyz)
 - [selfh.st icon proxy](https://icons.003274.xyz/bitwarden.svg) - See usage [here](https://github.com/selfhst/icons?tab=readme-ov-file#linking)
 - [Apprise Endpoint](https://apprise.003274.xyz/notify)
-- [Spliit Instance](https://spliit.003274.xyz)
-- [Necesse Server](https://necessegame.com/server/) - It runs at ```necesse.drifty.win:14159```, you can join from the multiplayer section of the game. To download the game for free check [this](https://drifty.win/necesse-drifty-repack).
+- [Mlmym Instance](https://mlmym.003274.xyz) - Old Reddit frontend for any Lemmy Instance. Visit and use!
+- [Fermi Instance](https://fermi.003274.xyz) - A web frontend for the open source Discord server re-implementation called Spacebar
+- [DNS Server!!!](https://adguard.com/en/adguard-home/overview.html) - Use my DNS server for your devices and keep them ad, tracking and logging free! IP = 129.154.42.244, DoH = https://aghapi.003274.xyz/dns-query supports DoT too! 
+- [Discord Message Scheduling bot](https://003274.xyz/msgsched) - Add this to your server to schedule messages for the future on Discord using intervals or days of the week as schedule templates.
 
-#### GitHub
+#### GitHub / CF Pages
 
 - [Quaack Search Engine](https://quaack.pages.dev) (based on Unduck, better than 4get) (versatile and fast client side search engine that supports [DuckDuckGo's bangs](https://duckduckgo.com/bangs), custom bangs and customisable defualt search)
 - [BentoPDF](https://bento.drifty.win) (PDF Tools that run entirely client side. Very handy tool for PDF stuff on the go)
-- [PixelDrain Limit Bypass](https://pd.003274.xyz) (bypasses Pixeldrains's 6GB transfer daily limit, just paste the link to the file in the webpage)
 - [MobaXTerm Key Generator](https://mobaxterm.003274.xyz/) / [Alternate link if previous is down](https://mobax.003274.xyz) (for exact instruction on how to use this license file go to the [repo](https://github.com/driftywinds/MobaXterm-Keygen))
 - [year progress bar](https://progress.003274.xyz/year) and [month progress bar](https://progress.003274.xyz/month)
 - custom progress bar ([repo](https://github.com/driftywinds/progress-bar)) 
@@ -37,7 +38,8 @@ Here is some stuff I host on VPSs and/or GitHub.
 - [GitHub repo stats](https://stats.drifty.win/api/pin?username=driftywinds&repo=ytm-builds&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) ([repo](https://github.com/driftywinds/gh-stats)) (hosted on vercel, parameters can be changed in the URL, more info in repo)
 - [udm14](https://driftywinds.github.io/udm14/) (search google without AI) ([repo](https://github.com/driftywinds/udm14))
 - [toolz instance](https://driftywinds.github.io/toolz/) (mostly for adblock) ([repo](https://github.com/driftywinds/toolz))
-- [online hash tools instance](https://driftywinds.github.io/online-tools/) ([repo](https://github.com/driftywinds/online-tools))
+- [online tools instance](https://tools.drifty.win/) ([repo](https://github.com/driftywinds/online-tools))
+- [CyberChef Instance](https://cyberchef.drifty.win/) - Use alot of handy tools for the web
 - [mkv extractor](https://driftywinds.github.io/mkv-extract/) (extract stuff from MKV files) ([repo](https://github.com/driftywinds/mkv-extract))
 - [Nextflux instance](https://nf.drifty.win) (better UI companion for MiniFlux server)
 - [ReactFlux instance](https://rf.drifty.win) (UI companion for MiniFlux server)
