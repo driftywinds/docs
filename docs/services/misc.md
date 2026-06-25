@@ -21,6 +21,8 @@ Here is some stuff I host on VPSs and/or GitHub.
 - [DNS Server!!!](https://adguard.com/en/adguard-home/overview.html) - Use my DNS server for your devices and keep them ad, tracking and logging free! IP = 129.154.42.244, DoH = https://aghapi.003274.xyz/dns-query supports DoT too! 
 - [Discord Message Scheduling bot](https://003274.xyz/msgsched) - Add this to your server to schedule messages for the future on Discord using intervals or days of the week as schedule templates.
 - [PPSSPP Ad Hoc Relay Server](https://adhoc.003274.xyz) - Use this with a custom firware PSP or PPSSPP to play games with your freinds over the internet. Use this domain - mumble.drifty.win as the ad hoc server URL
+- [Koreader Sync Server](https://kosync.003274.xyz) - My Koreader Sync server, compatible with Koreader on any device and Readest on any device
+- [Telecoin Bot](https://003274.xyz/telecoin) - A Telegram bot that takes a Minecraft Bedrock Marketplace addon UUID or link as input and gives you the add on files for free. Most popular Marketplace addons available. 
 
 #### GitHub / CF Pages
 
