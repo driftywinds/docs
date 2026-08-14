@@ -44,6 +44,7 @@ Here is some stuff I host on VPSs and/or GitHub.
 - [online tools instance](https://tools.drifty.win/) ([repo](https://github.com/driftywinds/online-tools))
 - [CyberChef Instance](https://cyberchef.drifty.win/) - Use alot of handy tools for the web
 - [mkv extractor](https://driftywinds.github.io/mkv-extract/) (extract stuff from MKV files) ([repo](https://github.com/driftywinds/mkv-extract))
+- [ha.mr instance](https://pcmb.fyi) (compress links (not shorten), based on PortalRunner [video](https://pcmb.fyi/#b~9nFB([Ccz4dv.A*PQW#)) ([repo](https://pcmb.fyi/#OhvUjZg4]p;g))
 - [Nextflux instance](https://nf.drifty.win) (better UI companion for MiniFlux server)
 - [ReactFlux instance](https://rf.drifty.win) (UI companion for MiniFlux server)
 - [Container Stats viewer](https://container-stats.pages.dev) (view DockerHub and GHCR container stats on the go)
