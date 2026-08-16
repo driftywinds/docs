@@ -1,26 +1,34 @@
 # Android
 
-I mainly deal with patching and releasing the latest version of modified YouTube (ReVanced, RVX or ReX).
+I patch and releasing the latest version of modified YouTube (ReVanced, RVX or ReX) and other popular apps
 
 ## GitHub Releases
 
-I host barebones repositories that are compatible with [Obtanium](https://github.com/ImranR98/Obtainium) for automatic updates on Android phones. They are as follows: -
+I host barebones repositories that are compatible with [Obtanium](https://github.com/ImranR98/Obtainium) or [ObtainX](https://github.com/bikram-agarwal/ObtainX) (reccommended) for automatic updates on Android phones. They are as follows: -
 
 - [YouTube builds](https://003274.xyz/yt)
 - [YouTube Music builds](https://003274.xyz/ytm)
 - [MiXplorer releases](https://003274.xyz/mix)
+- [Instagram builds](https://github.com/driftywinds/instagram-builds) (based on Piko patches)
 - [Balatro Builds](https://github.com/driftywinds/balatro-builds/)
 
 ## Telegram Releases
 
-- YouTube builds - [here](https://t.me/YTRXbuilds) or in the ReVanced builds topic [here](https://t.me/+rvcObIvOpctiMDI9)
-- Spotify builds from xManager (essentially a repost channel) - [here](https://t.me/crackedspotifymod)
+- YouTube builds - [here](https://t.me/driftysYTbuilds) or in the ReVanced builds topic [here](https://t.me/+rvcObIvOpctiMDI9)
 - Minecraft (MCPE) with working online - [here](https://t.me/mcperelease)
+
+## Endorsed Projects
+
+These are projects I rely on for my own patched app needs and they play a major part in keeping Android open.
+
+- [Morphe Patches](https://github.com/MorpheApp/morphe-patches)
+- More to be added
 
 ## Reddit / Lemmy Releases
 
 - ~~ I release my YouTube builds for people who are not super tech savvy and rely on Reddit for updates [here](https://new.reddit.com/r/revancedapks) as a fallback (I am u/fakedoorsarereal). ~~ EDIT 2025: - I do not post updates on Reddit anymore.
-- I also release them on Lemmy non-regularly [here](https://lemmy.ml/c/revancedapks).
+- ~~ I also release them on Lemmy non-regularly [here](https://lemmy.ml/c/revancedapks). ~~
+- Releases on these platforms have been discontinued.
 
 <hr/>
 

@@ -1,6 +1,6 @@
 # iOS
 
-I mainly deal with sideloading on a very surface level that too.
+I make tweaked builds of apps for sideloading
 
 ## AltStore Source Viewer
 
@@ -11,20 +11,30 @@ I mainly deal with sideloading on a very surface level that too.
 - I update my [AltStore Repository](https://003274.xyz/altstore) regularly whith a bunch of usefull sideloadable apps.
 
 	Pure JSON link to this is - `https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json`
-- [Balatro IPA file](https://github.com/driftywinds/balatro-builds/releases/latest)
 
 ## Mirrors / Backups
 
-- Mirrors to some stuff exist as a file server [here](https://files.drifty.win) and on Telegram [here](https://003274.xyz/megalomania).
+- Mirrors to some stuff exist as a file server [here](https://files.drifty.win) (depreciated) and on Telegram [here](https://003274.xyz/megalomania).
 
 ## Useful links for sideloading
 Here are some of the resources I have started depending on for my sideloading needs.
 
-- ⭐[YTLite GitHub repo](https://github.com/dayanch96/YTLite)
-- [uYouEnhanced GitHub repo](https://github.com/arichornlover/uYouEnhanced)
-- [YTLitePlus GitHub repo](https://github.com/YTLitePlus/YTLitePlus)
+- ⭐[AppAssassin Telegram Bot](https://t.me/FastDecryptBot) (for decrypted IPAs)
 - ⭐[AppTesters Telegram Group with IPA decryptor bot](https://t.me/AppleTesters)
-- ⭐[armconverter site with decrypted IPAs](https://armconverter.com/decryptedappstore/us/)
+- ⭐[my github workflow repo for injecting IPAs](https://github.com/driftywinds/cyan-builder)
+- [Eevee IPA Decrypter Telegram bot](https://t.me/eeveedecrypterbot) (also for decrypted IPAs but more restrictions than the AppAssassin bot)
+- [armconverter site with decrypted IPAs](https://armconverter.com/decryptedappstore/us/) (has an account systrem and severe limitations)
+- [anyipa.me decrypted ipa site](https://anyipa.me/) (has an account systrem and severe limitations)
+
+## Endorsed projects
+
+These projects are run by friends or people I respect who I endorse and support.
+
+- [Compiled IPAs Telegram channel](https://t.me/compiledipas) - Trusted builds by Jayden for all sorts of apps including the most popular ones
+- [RyukGram](https://github.com/faroukbmiled/RyukGram) - Instagram tweak developed by Ryuk
+- [YTKACE](https://github.com/itzzace/YTKACE) - Active YouTube tweak developed by Ace
+- [EeveeSpotifyReincarnated](https://github.com/SideloadLabs/EeveeSpotifyReincarnated) - Spotify tweak developed by Jayden, Ryuk and Mod4 under the SideloadLabs org
+- [AppNest](https://github.com/SideloadLabs/AppNest) - Livecontainer fork developed by Jayden, Ryuk and Mod4 under the SideloadLabs org
 
 <hr/>
 
