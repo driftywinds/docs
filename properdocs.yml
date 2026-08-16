@@ -29,6 +29,16 @@ theme:
     - search.suggest
     - search.highlight
     - header.autohide
+markdown_extensions:
+  - pymdownx.tilde
+  - attr_list
+  - md_in_html 
+  - tables
+  - footnotes
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.tasklist:
+      custom_checkbox: true
 extra:
   generator: false
   consent:
