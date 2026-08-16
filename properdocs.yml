@@ -6,7 +6,7 @@ theme:
     font:
         text: Work Sans
         code: Roboto Mono
-    name: material
+    name: materialx
     palette:
         primary: teal
         accent: purple

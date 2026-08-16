@@ -1,2 +1,2 @@
 properdocs
-mkdocs-material
+mkdocs-materialx
