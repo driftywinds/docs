@@ -18,11 +18,9 @@ Everything in this section is the fruits of my labour and my experience in learn
 - [Enclosed instance](https://enclosed.003274.xyz/)
 - [Pairdrop instance](https://pairdrop.drifty.win/)
 - [PrivateBin instance](https://bin.003274.xyz/) - Should stay online forever as long as my VPS is alive
-- [Beaver Habbit Tracker](https://beaver.003274.xyz)
 - [selfh.st icon proxy](https://icons.003274.xyz/bitwarden.svg) - See usage [here](https://github.com/selfhst/icons?tab=readme-ov-file#linking)
-- [Apprise Endpoint](https://apprise.003274.xyz/notify)
+- [Apprise Endpoint](https://apprise.003274.xyz/)
 - [Mlmym Instance](https://mlmym.003274.xyz) - Old Reddit frontend for any Lemmy Instance. Visit and use!
-- [Fermi Instance](https://fermi.003274.xyz) - A web frontend for the open source Discord server re-implementation called Spacebar
 - [DNS Server!!!](https://adguard.com/en/adguard-home/overview.html) - Use my DNS server for your devices and keep them ad, tracking and logging free! IP = 129.154.42.244, DoH = https://aghapi.003274.xyz/dns-query supports DoT too! 
 - [Discord Message Scheduling bot](https://003274.xyz/msgsched) - Add this to your server to schedule messages for the future on Discord using intervals or days of the week as schedule templates.
 - [PPSSPP Ad Hoc Relay Server](https://adhoc.003274.xyz) - Use this with a custom firware PSP or PPSSPP to play games with your freinds over the internet. Use this domain - mumble.drifty.win as the ad hoc server URL
@@ -56,10 +54,8 @@ Everything in this section is the fruits of my labour and my experience in learn
 
 ### Accounts on Request
 
-- Matrix Server (closed to the public, accounts on request)
-- IRC server + [thelounge IRC client](https://github.com/thelounge/thelounge) (IRC server closed to the public, accounts on request for thelounge)
+- [Chatto](github.com/chattocorp/chatto/) Server (closed to the public, accounts on request)
 - Bitwarden Instance (closed to the public, accounts on request)
-- [Troddit](https://github.com/burhan-syed/troddit) Instance (closed to the public, accounts on request)
 - [My Minecraft Skin and Cape server](https://drasl.drifty.win) (usable with Fjord Launcher)
 - [Memos](https://github.com/usememos/memos) server (closed to the public, accounts on request)
 - [FreshRSS](https://frss.003274.xyz) server (closed to the public, accounts on request)
@@ -69,17 +65,16 @@ Everything in this section is the fruits of my labour and my experience in learn
 ### Closed to the public
 
 - Immich Server (closed to the public)
-- Immich Power Tools server (closed to the public)
-- Element Client for the Matrix Server (closed to the public)
 - [Wallos](https://github.com/ellite/Wallos) Server (closed to the public)
 - Mumble Server (closed to the public)
 - Uptime Kuma Server (closed to the public)
 
 ### Internal
 
-- Portainer Instances to manage my containers
+- Dockhand Instances to manage my containers
 - [Pocket ID](https://github.com/stonith404/pocket-id) for auth to my internal services
 - [Glance](https://github.com/glanceapp/glance) Instance (as my homepage everywhere)
+- Navidrome Server
 
 
 ## Software

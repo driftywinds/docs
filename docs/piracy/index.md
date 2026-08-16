@@ -2,6 +2,12 @@
 
 I've been doing this a while and there are already some great resources you can check out for all sorts of links (like [fmhy](https://fmhy.pages.dev)). Despite those, I wanted to curate a bunch of links that I myself have come to depend upon for my needs. 
 
+### My Piracy Endeavours
+
+- drifty repacks for Windows games - [website](https://drifty.win) or [Telegram](https://t.me/driftyrepacks)
+- My Movies and TV shows upload home (not available to the public)
+- My Navidrome server with 2 TB of music (not available to the public)
+
 These are the categories available for now: -
 
 ### - [Movies / TV Shows](TV/links.md)

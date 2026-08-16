@@ -1,6 +1,6 @@
 # About Me
 
-I am a 24 year old law graduate from India, and I do sysadmin stuff along with everything on here as a hobby.
+I am a 25 year old law graduate from India, and I do sysadmin stuff along with everything on here as a hobby.
 
 ## How this came to be
 
@@ -23,7 +23,8 @@ GitHub was never about the repositories of code it hosted initially - it was onl
 - [Harbor profile](https://003274.xyz/harbor)
 - email = hi at drifty dot win ([pgp key](https://003274.xyz/pgp)) (there might be other PGP keys on the internet for this email, they are all revoked and this is the only existing valid one)
 - [lemmy profile](https://sopuli.xyz/u/drifty)
-- [enka.network profile (Genshin Builds showcase)](https://enka.network/u/Kuria/)
+- [Wuthering Waves character builds](https://wuwa.build/profile/900565589)
+- ~~ [enka.network profile (Genshin Builds showcase)](https://enka.network/u/Kuria/) ~~ I don't play this game anymore
 
 <hr/>
 

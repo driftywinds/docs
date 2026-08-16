@@ -5,12 +5,14 @@ Hey there! I curate a bunch of links for stuff on here, and try to represent wha
 
 ## Stuff to check out
 
-- [My services](services/android.md)
+- [Everything I host](services/index.md) (public and non-public both)
 
 ## Other Links
 
-- [zx's archive for iOS sideloading](https://t.me/zxc_archive)
-- [inotia00's ReVanced Extended for Android](https://github.com/inotia00/revanced-patches)
+- [My Main Telegram Discussion Group](https://003274.xyz/megalomania)
+- [My patched YT and other apps releases](https://t.me/driftysYTbuilds)
+- [Minecraft Bedrock for Android APKs](https://t.me/mcperelease)
+- [Minecraft Bedrock addon bot](https://t.me/dw_telecoin_bot)
 
 <hr/>
 
