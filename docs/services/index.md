@@ -54,7 +54,7 @@ Everything in this section is the fruits of my labour and my experience in learn
 
 ### Accounts on Request
 
-- [Chatto](github.com/chattocorp/chatto/) Server (closed to the public, accounts on request)
+- [Chatto](https://github.com/chattocorp/chatto/) Server (closed to the public, accounts on request)
 - Bitwarden Instance (closed to the public, accounts on request)
 - [My Minecraft Skin and Cape server](https://drasl.drifty.win) (usable with Fjord Launcher)
 - [Memos](https://github.com/usememos/memos) server (closed to the public, accounts on request)
