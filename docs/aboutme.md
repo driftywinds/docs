@@ -24,7 +24,7 @@ GitHub was never about the repositories of code it hosted initially - it was onl
 - email = hi at drifty dot win ([pgp key](https://003274.xyz/pgp)) (there might be other PGP keys on the internet for this email, they are all revoked and this is the only existing valid one)
 - [lemmy profile](https://sopuli.xyz/u/drifty)
 - [Wuthering Waves character builds](https://wuwa.build/profile/900565589)
-- ~~ [enka.network profile (Genshin Builds showcase)](https://enka.network/u/Kuria/) ~~ I don't play this game anymore
+- ~~[enka.network profile (Genshin Builds showcase)](https://enka.network/u/Kuria/)~~ I don't play this game anymore
 
 <hr/>
 
