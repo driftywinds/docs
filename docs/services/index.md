@@ -27,6 +27,7 @@ Everything in this section is the fruits of my labour and my experience in learn
 - [Koreader Sync Server](https://kosync.003274.xyz) - My Koreader Sync server, compatible with Koreader on any device and Readest on any device
 - [Telecoin Bot](https://003274.xyz/telecoin) - A Telegram bot that takes a Minecraft Bedrock Marketplace addon UUID or link as input and gives you the add on files for free. Most popular Marketplace addons available. 
 - [scrbl](https://scrbl.cc) - A self hostable telegra.ph clone that goes beyond, source code [here](https://github.com/driftywinds/scrbl)
+- [interim](https:/interim.drifty.win) - A temporary file hosting service inspired from buzzheavier
 
 #### GitHub / CF Pages
 
