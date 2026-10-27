@@ -32,6 +32,8 @@ Everything in this section is the fruits of my labour and my experience in learn
 #### GitHub / CF Pages
 
 - [Quaack Search Engine](https://quaack.pages.dev) (based on Unduck, better than 4get) (versatile and fast client side search engine that supports [DuckDuckGo's bangs](https://duckduckgo.com/bangs), custom bangs and customisable defualt search)
+- [Hatsmith](https://hat.drifty.win) (In browser encryption and decryption for files)
+- [Ente QR Code Generator](https://qr.drifty.win) (Create no bs, no redirect QR codes)
 - [BentoPDF](https://bento.drifty.win) (PDF Tools that run entirely client side. Very handy tool for PDF stuff on the go)
 - [MobaXTerm Key Generator](https://mobaxterm.003274.xyz/) / [Alternate link if previous is down](https://mobax.003274.xyz) (for exact instruction on how to use this license file go to the [repo](https://github.com/driftywinds/MobaXterm-Keygen))
 - [year progress bar](https://progress.003274.xyz/year) and [month progress bar](https://progress.003274.xyz/month)
